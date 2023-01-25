@@ -100,7 +100,6 @@ button:hover {
   text-decoration: underline;
 }
 
-
 footer {
   text-align: center;
 
@@ -152,7 +151,7 @@ footer a {
 #modal {
   background-color: #ff5e84;
 
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   right: 0;
@@ -183,7 +182,7 @@ footer a {
   max-width: 800px;
   width: 80%;
 
-  margin: 0 auto 15%;
+  margin: 0 auto 5%;
 
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -298,13 +297,13 @@ form button:hover {
   color: #25282b;
 }
 
-#page-ideas nav li a.button{
+#page-ideas nav li a.button {
   color: white;
-} 
+}
 
 #page-ideas nav li:last-child {
   margin: 0;
-} 
+}
 
 section#title {
   text-align: center;
