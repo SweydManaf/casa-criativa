@@ -87,12 +87,8 @@ Para rodar a aplicação, você precisa ter o [Node](https://nodejs.org/en/) ins
 
 <br>
 
-Projeto desenvolvido com a **&copy;[Rocketseat](https://rocketseat.com.br/)**
-
-**Instrutor: [Mayk Brito](https://github.com/maykbrito)**
-
 ## :memo: Licença
-Projeto desenvolvido com a **&copy;[Rocketseat](https://rocketseat.com.br/)**
+Projeto desenvolvido com a **&copy;[Rocketseat](https://rocketseat.com.br/)**<br>
 **Instrutor: [Mayk Brito](https://github.com/maykbrito)**
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
