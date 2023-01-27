@@ -46,7 +46,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [SQLite3](https://www.sqlite.org/index.html)
 - [Express](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/)
-- [Nunujucks](https://mozilla.github.io/nunjucks/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 <br>
 
 ## :computer: Projeto
