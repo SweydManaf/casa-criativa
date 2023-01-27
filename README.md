@@ -52,10 +52,10 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ## :computer: Projeto
 Casa Criativa é uma aplicação web, que cadastra e exibe ideias de atividades para fazer em casa durante o período de isolamento social.
 
-<div align="center">
-  <img src=".github/demo.gif" alt="demonstração" >
-</div>
-
+### Telas
+![](.github/print-1.png)
+![](.github/print-2.png)
+![](.github/print-3.png)
 <br>
 
 ## :wrench: Instalação e uso
